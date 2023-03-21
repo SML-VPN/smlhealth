@@ -1,8 +1,7 @@
 baseURL: "https://SML-VPN.github.io/smlhealth/"
 languageCode: ru-ru
 title: СМЛ Здоровье
-# theme: PaperMod
-theme: github.com/adityatelange/hugo-PaperMod
+theme: PaperMod
 buildDrafts: false
 buildFuture: false
 buildExpired: false
