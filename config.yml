@@ -35,7 +35,7 @@ params:
   tocopen: false
 
   label:
-    text: ""
+    text: " "
     icon: logo.png
     iconHeight: 40
 
@@ -48,4 +48,3 @@ params:
   #     SiteVerificationTag: "XYZabc"
 
   robotsNoIndex: false
-  
