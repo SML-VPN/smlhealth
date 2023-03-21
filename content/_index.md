@@ -1,4 +1,4 @@
-﻿---
+---
 showToc: true
 TocOpen: true
 hidemeta: true
