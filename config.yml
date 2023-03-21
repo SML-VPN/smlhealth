@@ -1,0 +1,51 @@
+baseURL: "https://SML-VPN.github.io/smlhealth/"
+languageCode: ru-ru
+title: СМЛ Здоровье
+theme: PaperMod
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: 
+  description: ""
+  author: SML Health
+  DateFormat: "2 January, 2006"
+  defaultTheme: light # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: true
+  hideSummary: true
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: ""
+    icon: logo.png
+    iconHeight: 40
+
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+  robotsNoIndex: false
+  
